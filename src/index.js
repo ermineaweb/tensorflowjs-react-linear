@@ -1,5 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
+import TensorflowApp from "./TensorflowApp";
+import "./style.css";
 
-ReactDOM.render(    <App />,  document.getElementById('root'));
-
+ReactDOM.render(<TensorflowApp />, document.getElementById("root"));

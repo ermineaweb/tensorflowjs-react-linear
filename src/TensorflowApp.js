@@ -155,7 +155,7 @@ function TensorflowApp() {
         <a href={"https://github.com/ermineaweb/tensorflowjs-react-linear"}>
           Sources
         </a>
-        <a href={"https://romainamichaud.com"}>My blog</a>
+        <a href={"https://romainamichaud.com"}>My website</a>
       </section>
     </div>
   );

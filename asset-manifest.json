@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tensorflowjs-react-linear/static/css/main.940f298c.chunk.css",
-    "main.js": "/tensorflowjs-react-linear/static/js/main.0f891e67.chunk.js",
-    "main.js.map": "/tensorflowjs-react-linear/static/js/main.0f891e67.chunk.js.map",
+    "main.css": "/tensorflowjs-react-linear/static/css/main.de90dde8.chunk.css",
+    "main.js": "/tensorflowjs-react-linear/static/js/main.eccded34.chunk.js",
+    "main.js.map": "/tensorflowjs-react-linear/static/js/main.eccded34.chunk.js.map",
     "runtime-main.js": "/tensorflowjs-react-linear/static/js/runtime-main.7374ff0a.js",
     "runtime-main.js.map": "/tensorflowjs-react-linear/static/js/runtime-main.7374ff0a.js.map",
     "static/js/2.ff5abd44.chunk.js": "/tensorflowjs-react-linear/static/js/2.ff5abd44.chunk.js",
     "static/js/2.ff5abd44.chunk.js.map": "/tensorflowjs-react-linear/static/js/2.ff5abd44.chunk.js.map",
     "index.html": "/tensorflowjs-react-linear/index.html",
-    "static/css/main.940f298c.chunk.css.map": "/tensorflowjs-react-linear/static/css/main.940f298c.chunk.css.map",
+    "static/css/main.de90dde8.chunk.css.map": "/tensorflowjs-react-linear/static/css/main.de90dde8.chunk.css.map",
     "static/js/2.ff5abd44.chunk.js.LICENSE.txt": "/tensorflowjs-react-linear/static/js/2.ff5abd44.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7374ff0a.js",
     "static/js/2.ff5abd44.chunk.js",
-    "static/css/main.940f298c.chunk.css",
-    "static/js/main.0f891e67.chunk.js"
+    "static/css/main.de90dde8.chunk.css",
+    "static/js/main.eccded34.chunk.js"
   ]
 }

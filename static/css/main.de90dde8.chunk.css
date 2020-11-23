@@ -1,0 +1,2 @@
+body{display:flex;justify-content:center;align-items:center}h1,h2{color:#36005a}h1{font-size:1.8em}h2{font-size:1.5em}td{width:50px;text-align:center;border:1px solid #c6c6c6}section{display:flex;flex-direction:column;justify-content:center;align-items:center;border-radius:5px;padding:10px 5px;margin:10px;box-shadow:3px 3px 12px 0 #1e0032}button,input,select{border-radius:5px;width:120px;height:30px;background-color:#fff;text-align:center}button:hover,input:hover,select:hover{background-color:#eee7ff}
+/*# sourceMappingURL=main.de90dde8.chunk.css.map */

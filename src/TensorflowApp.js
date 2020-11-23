@@ -89,9 +89,9 @@ function TensorflowApp() {
 
       <section>
         <h2>2. Model</h2>
-        <label htmlFor="lossFn">Loss function</label>
+        <label htmlFor="optiFn">Optimizer function</label>
         <select
-          id="lossFn"
+          id="optiFn"
           value={modelOptions.optimizer}
           onChange={handleChangeModelOptions("SET_OPTIMIZER")}
         >
@@ -149,6 +149,13 @@ function TensorflowApp() {
         <p>
           Predicted result :<strong> {prediction} </strong>
         </p>
+      </section>
+
+      <section>
+        <a href={"https://github.com/ermineaweb/tensorflowjs-react-linear"}>
+          Sources
+        </a>
+        <a href={"https://romainamichaud.com"}>My blog</a>
       </section>
     </div>
   );

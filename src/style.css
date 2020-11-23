@@ -41,6 +41,7 @@ button {
   width: 120px;
   height: 30px;
   background-color: #fff;
+  text-align: center;
 }
 
 input:hover,

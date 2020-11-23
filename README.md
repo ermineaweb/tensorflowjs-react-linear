@@ -1,3 +1,3 @@
-https://github.com/ermineaweb/tensorflowjs-react-linear
+[Demo](https://ermineaweb.github.io/tensorflowjs-react-linear)
 
-git subtree push --prefix build origin gh-pages
+[Some other articles](https://romainamichaud.com)

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tensorflowjs-react-linear/static/css/main.de90dde8.chunk.css",
-    "main.js": "/tensorflowjs-react-linear/static/js/main.eccded34.chunk.js",
-    "main.js.map": "/tensorflowjs-react-linear/static/js/main.eccded34.chunk.js.map",
+    "main.js": "/tensorflowjs-react-linear/static/js/main.b3175687.chunk.js",
+    "main.js.map": "/tensorflowjs-react-linear/static/js/main.b3175687.chunk.js.map",
     "runtime-main.js": "/tensorflowjs-react-linear/static/js/runtime-main.7374ff0a.js",
     "runtime-main.js.map": "/tensorflowjs-react-linear/static/js/runtime-main.7374ff0a.js.map",
     "static/js/2.ff5abd44.chunk.js": "/tensorflowjs-react-linear/static/js/2.ff5abd44.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7374ff0a.js",
     "static/js/2.ff5abd44.chunk.js",
     "static/css/main.de90dde8.chunk.css",
-    "static/js/main.eccded34.chunk.js"
+    "static/js/main.b3175687.chunk.js"
   ]
 }
